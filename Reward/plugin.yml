@@ -1,0 +1,11 @@
+name: Reward
+author: Wax_dev
+version: 1.0.0
+api: 3.0.0
+main: HiroTeam\Reward\main
+website: https://github.com/HiroshimaTeam
+    
+commands:
+  reward:
+    description: Recompense du jours
+      usage: /reward
